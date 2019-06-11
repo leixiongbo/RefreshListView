@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RefreshListView</string>
+
+    <!--pullrefreshlistview-->
+    <string name="pull_to_refresh_empty_label">没有相关内容</string>
+    <string name="pull_to_refresh_reload_btn">重新加载</string>
+    <string name="pull_to_refresh_err_label">数据被外星人劫持了！</string>
+    <string name="pull_to_refresh_net_err_label">无法连接到网络！\n请检察您的手机是否联网！</string>
+    <string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_pull_label</string>
+    <string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string>
+    <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
+    <string name="pull_to_refresh_pull_label">向下拉动可以刷新</string>
+    <string name="pull_to_refresh_release_label">松开可以刷新</string>
+    <string name="pull_to_refresh_refreshing_label">加载中&#8230;</string>
+    <string name="pull_to_refresh_tap_label">点击刷新</string>
+</resources>
